@@ -1,0 +1,29 @@
+.d-flex {
+  display: flex;
+}
+
+.app-wrapper {
+  background-image: url("./assets/bg.jpg");
+  background-size: cover;
+  position: relative;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}

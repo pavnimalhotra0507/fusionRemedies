@@ -1,0 +1,32 @@
+.hero-wrapper {
+  background-image: url("../../assets/bg.jpg");
+}
+
+.hero-wrapper-container {
+  padding: 20px;
+  color: white;
+  z-index: 3;
+  position: relative;
+  top: 73px;
+}
+
+.hero-heading {
+  font-size: 76px;
+  max-width: 50%;
+  font-weight: 400;
+  padding-bottom: 100px;
+}
+
+.hero-overlay {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.7) -1.07%,
+    rgba(0, 0, 0, 0) 82.78%
+  );
+}

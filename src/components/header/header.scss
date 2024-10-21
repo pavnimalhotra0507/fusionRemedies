@@ -1,0 +1,45 @@
+header {
+  z-index: 5;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: background-color 0.3s ease;
+  background-color: transparent;
+
+  &.scrolled {
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+    .header-nav-link a {
+      color: black;
+    }
+  }
+}
+
+.header-nav-list {
+  list-style-type: none;
+  gap: 50px;
+  padding: 0;
+}
+
+.header-logo {
+  width: 200px;
+  height: auto;
+}
+
+.header-wrapper {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-nav-link {
+  a {
+    color: white;
+    font-size: 18px;
+  }
+  &.active a {
+    color: white;
+  }
+}
