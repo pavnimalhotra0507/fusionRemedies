@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fusionRemedies/static/css/main.224e111b.css",
+    "main.js": "/fusionRemedies/static/js/main.8558ef6c.js",
+    "static/js/453.50b0a7df.chunk.js": "/fusionRemedies/static/js/453.50b0a7df.chunk.js",
+    "static/media/about3.webp": "/fusionRemedies/static/media/about3.c70a6f09cbcdb7b7dc54.webp",
+    "static/media/bg.jpg": "/fusionRemedies/static/media/bg.97315675b150563abaca.jpg",
+    "static/media/logo.png": "/fusionRemedies/static/media/logo.d7e45e5af4db0f34b9bd.png",
+    "static/media/about2.webp": "/fusionRemedies/static/media/about2.ddff02358491fbef96f8.webp",
+    "static/media/about1.webp": "/fusionRemedies/static/media/about1.41e90183b33eb3e3c29c.webp",
+    "index.html": "/fusionRemedies/index.html",
+    "main.224e111b.css.map": "/fusionRemedies/static/css/main.224e111b.css.map",
+    "main.8558ef6c.js.map": "/fusionRemedies/static/js/main.8558ef6c.js.map",
+    "453.50b0a7df.chunk.js.map": "/fusionRemedies/static/js/453.50b0a7df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224e111b.css",
+    "static/js/main.8558ef6c.js"
+  ]
+}
